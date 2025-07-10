@@ -16,16 +16,6 @@ Este projeto é uma implementação prática baseada no [TabNews](https://www.ta
 - E outras ferramentas que serão adicionadas conforme o desenvolvimento avança
 
 
-## Sobre mim
-
-Meu nome é Mateus Valvassori. Estou utilizando este projeto como parte da minha formação profissional na área de desenvolvimento. Através do Curso.dev, estou aprofundando meu conhecimento técnico e aprimorando minha forma de escrever código, documentar projetos e resolver problemas reais.
-
-Se quiser acompanhar meu trabalho ou entrar em contato:
-
-- LinkedIn: [linkedin.com/in/seu-usuario-aqui](https://www.linkedin.com/in/seu-usuario-aqui)
-- GitHub: [github.com/ValvassoriDev](https://github.com/ValvassoriDev)
-
-
 ## Status do Projeto
 
 Em desenvolvimento. O projeto está sendo construído de forma progressiva, conforme avanço nas etapas do curso.
